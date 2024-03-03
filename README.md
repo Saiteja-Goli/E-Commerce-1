@@ -2,8 +2,12 @@
 
 This is a web application for browsing products. Users can view a list of products, filter by category, and sort products by price.
 
+## Deployed Link
+- [Link](https://client-o3uojrd5b-saiteja-goli.vercel.app/)
+
 ## JSON-Server Deployed Link
 - [Link](https://blue-tough-cape-buffalo.cyclic.app)
+
 ## Routes
 
 - `/`: Home Page
@@ -52,10 +56,6 @@ git clone https://github.com/Saiteja-Goli/E-Commerce.git
 ```bash
 npm Install
 npm install json-server
-```
-4. Start the JSON Server:
-```bash
-json-server --watch db.json --port 3001
 ```
 5. In a separate Integrated terminal, start the React application:
 ```bash
